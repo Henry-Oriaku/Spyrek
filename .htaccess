@@ -1,0 +1,9 @@
+RewriteEngine On
+
+#accept loading of actual files and directories
+# Prevent File/dir Access
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+
+#send everything else to the index page
+RewriteRule ^(.*)$ public/$1 [L,QSA]

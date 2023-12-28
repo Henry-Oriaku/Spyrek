@@ -1,0 +1,17 @@
+{
+    "name": "henryoriaku/spyredev",
+    "description": "An MVC Framework for PHP",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Spyredev\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Henry-Oriaku",
+            "email": "horiaku80@gmail.com"
+        }
+    ],
+    "require": {}
+}
