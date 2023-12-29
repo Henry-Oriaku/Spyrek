@@ -1,10 +1,9 @@
 {
     "name": "henryoriaku/spyredev",
-    "description": "An MVC Framework for PHP",
-    "type": "library",
+    "description": "A PHP MVC Framework",
     "autoload": {
         "psr-4": {
-            "Spyredev\\": "app/"
+            "Spyrek\\": "src/"
         }
     },
     "authors": [

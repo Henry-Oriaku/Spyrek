@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Spyredev\\' => array($baseDir . '/app'),
+    'Spyrek\\' => array($baseDir . '/src'),
 );

@@ -9,6 +9,7 @@ class Response
         header("HTTP/1.1 $this->status_code");
         if ($data) {
             echo json_encode($data);
+            die();
         }
     }
     public function json($data)
