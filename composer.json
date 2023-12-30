@@ -1,5 +1,5 @@
 {
-    "name": "henryoriaku/spyredev",
+    "name": "henryoriaku/spyrek",
     "description": "A PHP MVC Framework",
     "autoload": {
         "files": ["src/Core/utils.php"],
