@@ -1,8 +1,8 @@
 <?php
 
-namespace src\Core;
+namespace Spyrek\Core;
 
-use src\Models\User;
+use Spyrek\Models\User;
 
 class Auth
 {

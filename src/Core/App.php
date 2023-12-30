@@ -1,8 +1,8 @@
 <?php
 
-namespace src\Core;
+namespace Spyrek\Core;
 
-use src\Core\Request;
+use Spyrek\Core\Request;
 
 class App
 {

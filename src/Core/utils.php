@@ -1,9 +1,9 @@
 <?php
 
-use src\Core\Auth;
-use src\Core\Request;
-use src\Core\Response;
-use src\Core\Route;
+use Spyrek\Core\Auth;
+use Spyrek\Core\Request;
+use Spyrek\Core\Response;
+use Spyrek\Core\Route;
 
 function show(...$msg)
 {

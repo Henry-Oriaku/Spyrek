@@ -3,7 +3,7 @@
 
 define('APP_KEY', 'AEDAED2134ADEAAEDEED');
 /** Database config */
-define('DBNAME', 'spndco');
+define('DBNAME', 'dbname');
 define('DBHOST', 'localhost');
 define('DBUSER', 'root');
 define('DBPASS', 'root');
@@ -14,6 +14,6 @@ define('ROOT', 'http://localhost:9000');
 
 
 
-define('APP_NAME', 'SpndCo');
+define('APP_NAME', 'App Name');
 define('APP_DESC', 'Easy Development');
 define('DEBUG', true);

@@ -1,6 +1,6 @@
 <?php
 
-namespace src\Core;
+namespace Spyrek\Core;
 
 use DevHenry\Connection;
 use DevHenry\Sqlite\SQLiteConnection;
