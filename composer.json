@@ -2,6 +2,7 @@
     "name": "henryoriaku/spyredev",
     "description": "A PHP MVC Framework",
     "autoload": {
+        "files": ["src/Core/utils.php"],
         "psr-4": {
             "Spyrek\\": "src/"
         }
